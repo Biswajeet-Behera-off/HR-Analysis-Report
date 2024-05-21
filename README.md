@@ -1,4 +1,4 @@
-# HR Analysis Report || Employee attrition trends data aalysis
+# HR Analysis Report || Employee attrition trends data analysis
 <hr>
 🍽️📊 Data-Driven Insights for an HR Analysis. || Learning from <a href="https://www.youtube.com/@RishabhMishraOfficial">Rishabh Mishra</a>, This is my Second Project on Power Bi.
 As a Beginner Data analyst, I recently worked on employee attrition trends Data analysis.
